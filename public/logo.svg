@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(76, 96)">
+        <!-- Main Helmet (White) -->
+        <path fill="#FFFFFF" d="
+            M180 0
+            L360 100
+            L360 120
+            L300 160
+            L300 140
+            L240 100
+            L180 80
+            L120 100
+            L60 140
+            L60 160
+            L0 120
+            L0 100
+            Z" />
+            
+        <!-- Blue Accents -->
+        <path fill="#00A3FF" d="
+            M60 160
+            L60 280
+            L0 240
+            L0 120
+            L60 160
+            Z" />
+            
+        <path fill="#00A3FF" d="
+            M300 160
+            L300 280
+            L360 240
+            L360 120
+            L300 160
+            Z" />
+    </g>
+</svg>
